@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"resources",
+				"target"
+			],
+			"follow_symlinks": true,
+			"path": "E:\\programming\\clojure\\prime-numbers"
+		}
+	]
+}

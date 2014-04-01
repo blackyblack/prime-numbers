@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"reduce"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"PackageControl",
+				"Package Control: List Packages"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/programming/clojure/prime-numbers/README.md",
+		"/E/programming/clojure/prime-numbers/src/blackyblack/primes/core.clj",
+		"/E/programming/clojure/prime-numbers/project.clj",
+		"/E/programming/clojure/prime-numbers/src/blackyblack/prime-numbers.clj",
+		"/E/programming/clojure/prime-numbers/test/prime_numbers/core_test.clj",
+		"/E/programming/clojure/prime-numbers/src/prime_numbers/core.clj",
+		"/E/programming/clojure/prime-numbers/prime-numbers.sublime-project",
+		"/E/programming/clojure/euler3/project.clj",
+		"/E/programming/clojure/euler3/prime-numbers.sublime-project",
+		"/E/programming/clojure/euler3/src/euler3/core.clj",
+		"/E/programming/clojure/euler3/euler3.sublime-project",
+		"/E/programming/clojure/euler2/src/euler2/core.clj",
+		"/E/programming/clojure/euler2/project.clj",
+		"/E/programming/clojure/euler1/src/euler1/core.clj",
+		"/E/programming/clojure/euler1/project.clj",
+		"/E/programming/clojure/euler2/euler2.sublime-project",
+		"/E/programming/clojure/euler1/euler1.sublime-project",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/E/programming/clojure/test_project1/src/test_project1/core.clj",
+		"/E/programming/clojure/test_project1/test_project1.sublime-project",
+		"/E/programming/clojure/test_project1/project.clj",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/programming/calypso/calypsopwrd2/main.c",
+		"/E/programming/calypso/calypsopwrd2/circular_buffer/circular_buffer.c",
+		"/E/bitcoin.txt",
+		"/E/programming/calypso/calypsopwrd2/nmc/nmc_common.h",
+		"/E/programming/calypso/calypsopwrd2/server/server_client.c",
+		"/E/programming/bitcoin.txt",
+		"/E/anon-359389.png"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\programming\\calypso\\calypsopwrd2",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"8419",
+			")))\n",
+			"save",
+			" ",
+			"return",
+			"application_state_t",
+			"config",
+			"line",
+			"LOG_LEVEL_ERROR"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "prime-numbers.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\programming\\clojure\\euler3\\euler3.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

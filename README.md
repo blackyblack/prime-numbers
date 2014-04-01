@@ -8,9 +8,13 @@ A Clojure library designed to generate and test prime numbers.
   (:require [blackyblack.primes.core :as primes]))
 
 (primes/prime? x) ;to test number for prime.
+
 (take 1 primes/prime-numbers) ;to make first prime number.
+
 (primes/divisible-by? x 2) ;like even?
-(primes/factorize x) ;take a set of prime factors of x
+
+(primes/factorize x) ;take a set of prime factors of x.
+
 
 ## License
 
